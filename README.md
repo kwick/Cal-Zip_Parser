@@ -8,3 +8,4 @@ StackOverflow, where TheMadTechnician was able to provide a better solution. Thi
 about 3 hours to complete.
 
 Please feel free to use what has been created for your own needs, and share again.
+Original source location https://stackoverflow.com/questions/55484600/use-arrays-and-if-or-for-loops-and-output-separate-files
